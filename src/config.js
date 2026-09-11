@@ -1,0 +1,2 @@
+// src/config.js (modifié par Dev 1)
+const API_URL = "http://localhost:5000/api/v1";
